@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22762335362",
+    "project_id": "bank-15db4",
+    "storage_bucket": "bank-15db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22762335362:android:97a98e71ef6eefd065589b",
+        "android_client_info": {
+          "package_name": "com.flutter.bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQwOOwgWq9KxDsVO2PRtsdjd_UdDro5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
